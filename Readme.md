@@ -3,7 +3,7 @@ title: "Getting and Cleaning Data - Course Project"
 date: "Sunday, October 25, 2015"
 output: html_document
 ---
-This program downloads and processes Human Activity Recognition data measured using Samsung Galaxy S smartphones. The data from numerous text files is combined and reformatted to produce one tidy dataset that should be easy to read and analyse. Please see the codebook for more information regarding the data and processing.
+The 'run_analysis.R' program downloads and processes Human Activity Recognition data for analysis. The data from numerous text files is combined and reformatted to produce one tidy dataset. Please see the codebook for more information regarding the data and processing.
 
 ***
 #####Required packages:
